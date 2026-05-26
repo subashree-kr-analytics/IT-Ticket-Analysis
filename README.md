@@ -25,7 +25,7 @@ It provides insights into ticket status, resolution time, technician performance
 
 ## 📸 Dashboard Preview
 
-![IT Ticket Dashboard](images/dashboard.png)
+![IT Ticket Dashboard](https://github.com/subashree-kr-analytics/IT-Ticket-Analysis/blob/main/IT%20Ticket%20Analysis%20Project/Dashboard%20Screenshot/IT%20Ticket-Analysis-Dashboard.png.png?raw=true)
 
 ---
 
